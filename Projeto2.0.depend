@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1544299336 source:c:\users\gigantes\desktop\projeto2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Cadastro.h"
+	<locale.h>
+	<time.h>
+
+1544298214 c:\users\gigantes\desktop\projeto2.0\cadastro.h
+	<stdio.h>
+	<time.h>
+
+1544400318 source:c:\users\gigantes\downloads\projeto2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Cadastro.h"
+	<locale.h>
+	<time.h>
+
+1544397875 c:\users\gigantes\downloads\projeto2.0\cadastro.h
+	<stdio.h>
+	<time.h>
+
