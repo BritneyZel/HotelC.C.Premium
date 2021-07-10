@@ -1,13 +1,5 @@
 # HOTEL CAMPINA CONFORT PREMIUM
 
-Universidade Estadual da Paraíba
-
-Curso: Ciências da Computação
-
-Professor:Danilo Abreu
-
-Projeto acadêmico apresentado como exigência de avaliação da disciplina laboratório de programação ministrada no semestre 2018.1 pelo professor Danilo Abreu
-
 Detalhes do projeto:
 
 Um hóspede representa um cliente do hotel, contendo informações do mesmo, tais como nome, cpf e data de nascimento. Cada hóspede estará associado a um dos contratos gerenciados pelo hotel.
